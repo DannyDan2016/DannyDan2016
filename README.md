@@ -1,4 +1,4 @@
-# Perfil Profesional de Danny Parrado
+# Perfil Profesional
 
 [![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=200&section=header&text=Danny%20Parrado&fontSize=90&fontColor=ffffff)](https://github.com/DannyDan2016/cypress-automation-demoqa)
 
@@ -7,25 +7,30 @@
 ## Habilidades y Experiencia
 
 ### Gestión de Proyectos 📈
-- **Jira**
-- **Azure DevOps**
-- **TFS**
-- **Zoho**
-- **Monday**
+- **Jira**: Herramienta de seguimiento de proyectos y gestión de incidencias.
+- [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+- **Azure DevOps**: Plataforma de desarrollo y entrega continua.
+- [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/)
+- **TFS**: Sistema de control de versiones y gestión de proyectos.
+- [![TFS](https://img.shields.io/badge/TFS-0078D7?style=for-the-badge&logo=visualstudio&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/server/)
+- **Zoho**: Suite de aplicaciones de negocio
+- [![Zoho](https://img.shields.io/badge/Zoho-4A90E2?style=for-the-badge&logo=zoho&logoColor=white)](https://www.zoho.com/)
+- **Monday**: Plataforma de gestión de proyectos y trabajo en equipo.
+- [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
 
 ### Pruebas de API 🕵️
-- **Postman**
-- **SOAP**
+- **Postman**: Herramienta para pruebas de API.
+- **SOAP**: Protocolo de comunicación para servicios web.
 
 ### Bases de Datos 💻
-- **SQL Server**
-- **Mongo DB**
+- **SQL Server**: Sistema de gestión de bases de datos relacionales.
+- **Mongo DB**: Base de datos NoSQL orientada a documentos.
 
 ### Automatización de Pruebas 🤖
-- **Cypress**
-- **Playwright**
-- **Selenium**
-- **POM (Page Object Model)**
+- **Cypress**: Framework de automatización de pruebas de frontend.
+- **Playwright**: Framework de automatización de pruebas para navegadores.
+- **Selenium**: Suite de herramientas para automatización de pruebas de navegadores.
+- **POM (Page Object Model)**: Diseño de pruebas automatizadas para mejorar la mantenibilidad y reutilización del código.
 
 ### CI/CD y Automatización de Pruebas 🚀
 - **Git**: Control de versiones y colaboración en equipo.
@@ -34,9 +39,9 @@
 - **AWS**: Servicios en la nube para despliegue y escalabilidad.
 
 ### Lenguajes de Programación 🆎
-- **Python**
-- **JavaScript**
-- **TypeScript**
+- **Python**: Lenguaje de programación de alto nivel.
+- **JavaScript**: Lenguaje de programación para el desarrollo web.
+- **TypeScript**: Superset de JavaScript que añade tipado estático.
 
 ## Competencias Clave
 - **Adaptabilidad**: Me integro con éxito en diversos entornos corporativos.
