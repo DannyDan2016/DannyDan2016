@@ -1,4 +1,4 @@
-# Perfil Profesional de Danny Parrado
+# Perfil Profesional Danny Parrado
 
 ¡Hola! Soy un Ingeniero QA con más de 6 años de experiencia en garantizar la calidad del software. He liderado pruebas funcionales, no funcionales y automatizadas, especializándome en la estimación de tiempos y la planificación estratégica de pruebas. Mis esfuerzos han resultado en una reducción de incidencias del 70% y una mejora en los tiempos de entrega del 40%, siempre agilizando los procesos de pruebas de calidad de software.
 
