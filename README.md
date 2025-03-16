@@ -20,17 +20,25 @@
 
 ### Pruebas de API 🕵️
 - **Postman**: Herramienta para pruebas de API.
+- [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 - **SOAP**: Protocolo de comunicación para servicios web.
+- [![SOAP](https://img.shields.io/badge/SOAP-0078D7?style=for-the-badge&logo=soap&logoColor=white)](https://www.w3.org/TR/soap/)
 
 ### Bases de Datos 💻
 - **SQL Server**: Sistema de gestión de bases de datos relacionales.
+- [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://docs.microsoft.com/en-us/sql/sql-server/)
 - **Mongo DB**: Base de datos NoSQL orientada a documentos.
+- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
 ### Automatización de Pruebas 🤖
 - **Cypress**: Framework de automatización de pruebas de frontend.
+- [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://docs.cypress.io/)
 - **Playwright**: Framework de automatización de pruebas para navegadores.
+- [![Playwright](https://img.shields.io/badge/Playwright-282C34?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
 - **Selenium**: Suite de herramientas para automatización de pruebas de navegadores.
+- [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 - **POM (Page Object Model)**: Diseño de pruebas automatizadas para mejorar la mantenibilidad y reutilización del código.
+- [![POM](https://img.shields.io/badge/POM-0078D7?style=for-the-badge&logo=pageobjectmodel&logoColor=white)](https://martinfowler.com/bliki/PageObject.html)
 
 ### CI/CD y Automatización de Pruebas 🚀
 - **Git**: Control de versiones y colaboración en equipo.
