@@ -20,9 +20,6 @@
 
 ¡Hola! Soy un Ingeniero QA con más de 6 años de experiencia en garantizar la calidad del software. He liderado pruebas funcionales, no funcionales y automatizadas, especializándome en la estimación de tiempos y la planificación estratégica de pruebas. Mis esfuerzos han resultado en una reducción de incidencias del 70% y una mejora en los tiempos de entrega del 40%, siempre agilizando los procesos de pruebas de calidad de software.
 
-<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
-
-<br><br>
 
 ## Habilidades y Experiencia
 
@@ -37,6 +34,10 @@
 - [![Zoho](https://img.shields.io/badge/Zoho-4A90E2?style=for-the-badge&logo=zoho&logoColor=white)](https://www.zoho.com/)
 - **Monday**: Plataforma de gestión de proyectos y trabajo en equipo.
 - [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
+
+<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
+
+<br><br>
 
 ### Pruebas de API 🕵️
 - **Postman**: Herramienta para pruebas de API.
