@@ -1,6 +1,6 @@
 # Perfil Profesional de Danny Parrado
 
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=[Danny%Parrado]&fontSize=90&fontColor=ffffff)](https://github.com/DannyDan2016)
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=200&section=header&text=Danny%20Parrado&fontSize=90&fontColor=ffffff)](https://github.com/DannyDan2016/cypress-automation-demoqa)
 
 ¡Hola! Soy un Ingeniero QA con más de 6 años de experiencia en garantizar la calidad del software. He liderado pruebas funcionales, no funcionales y automatizadas, especializándome en la estimación de tiempos y la planificación estratégica de pruebas. Mis esfuerzos han resultado en una reducción de incidencias del 70% y una mejora en los tiempos de entrega del 40%, siempre agilizando los procesos de pruebas de calidad de software.
 
