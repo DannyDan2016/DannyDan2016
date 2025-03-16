@@ -40,10 +40,8 @@
 <br><br>
 
 ### Pruebas de API 🕵️
-- **Postman**: Herramienta para pruebas de API.
-- [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-- **SOAP**: Protocolo de comunicación para servicios web.
-- [![SOAP](https://img.shields.io/badge/SOAP-0078D7?style=for-the-badge&logo=soap&logoColor=white)](https://www.w3.org/TR/soap/)
+- **Postman** - **SOAP**: Herramienta para pruebas de API.
+- [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) - [![SOAP](https://img.shields.io/badge/SOAP-0078D7?style=for-the-badge&logo=soap&logoColor=white)](https://www.w3.org/TR/soap/)
 
 ### Bases de Datos 💻
 - **SQL Server**: Sistema de gestión de bases de datos relacionales.
