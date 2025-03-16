@@ -1,13 +1,11 @@
 <h1 align="center"><b>Hi , I'm Danny Parrado QA Engineer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=200&section=header&text=Danny%20Parrado&fontSize=70&fontColor=ffffff)](https://github.com/DannyDan2016/cypress-automation-demoqa)
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=200&section=header&text=Danny%20Parrado&fontSize=30&fontColor=ffffff)](https://github.com/DannyDan2016/cypress-automation-demoqa)
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
@@ -17,9 +15,7 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 ¡Hola! Soy un Ingeniero QA con más de 6 años de experiencia en garantizar la calidad del software. He liderado pruebas funcionales, no funcionales y automatizadas, especializándome en la estimación de tiempos y la planificación estratégica de pruebas. Mis esfuerzos han resultado en una reducción de incidencias del 70% y una mejora en los tiempos de entrega del 40%, siempre agilizando los procesos de pruebas de calidad de software.
