@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Danny Parrado QA Engineer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=200&section=header&text=Danny%20Parrado&fontSize=30&fontColor=ffffff)](https://github.com/DannyDan2016/cypress-automation-demoqa)
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=100&section=header&text=Danny%20Parrado&fontSize=70&fontColor=ffffff)](https://github.com/DannyDan2016/cypress-automation-demoqa)
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
