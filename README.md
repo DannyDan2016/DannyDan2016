@@ -1,6 +1,6 @@
-# Perfil Profesional de [Tu Nombre]
+# Perfil Profesional de Danny Parrado
 
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=[Tu%20Danny20Parrado]&fontSize=90&fontColor=ffffff)](https://github.com/DannyDan2016)
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=[Danny%Parrado]&fontSize=90&fontColor=ffffff)](https://github.com/DannyDan2016)
 
 ¡Hola! Soy un Ingeniero QA con más de 6 años de experiencia en garantizar la calidad del software. He liderado pruebas funcionales, no funcionales y automatizadas, especializándome en la estimación de tiempos y la planificación estratégica de pruebas. Mis esfuerzos han resultado en una reducción de incidencias del 70% y una mejora en los tiempos de entrega del 40%, siempre agilizando los procesos de pruebas de calidad de software.
 
@@ -52,9 +52,9 @@
 - Implementación de estrategias de pruebas que agilizan los procesos de calidad de software.
 
 ## Contacto
-Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme a través de [tu correo electrónico] o [tu perfil de LinkedIn].
+Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme a través de parradodanny@outlook.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danny-parrado-qa-engineer )
 
 ---
 
