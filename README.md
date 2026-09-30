@@ -1,93 +1,119 @@
-<h1 align="center"><b>Hi , I'm Danny Parrado QA Engineer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- Los componentes visuales se generan con: python scripts/generate_assets.py -->
 
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=150&section=header&text=Danny%20Parrado&fontSize=70&fontColor=ffffff)](https://github.com/DannyDan2016/cypress-automation-demoqa)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-es-dark.svg">
+  <img alt="Danny Parrado — AI Agentic QA" src="assets/hero-es-light.svg" width="100%">
+</picture>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/danny-parrado-qa-engineer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-danny--parrado--qa--engineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:parradodanny@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-parradodanny%40outlook.com-0891B2?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
+  <img alt="Open to work" src="https://img.shields.io/badge/Open_to_work-QA_Automation_%C2%B7_Senior_QA-1A7F37?style=for-the-badge">
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
-¡Hola! Soy un Ingeniero QA con más de 6 años de experiencia en garantizar la calidad del software. He liderado pruebas funcionales, no funcionales y automatizadas, especializándome en la estimación de tiempos y la planificación estratégica de pruebas. Mis esfuerzos han resultado en una reducción de incidencias del 70% y una mejora en los tiempos de entrega del 40%, siempre agilizando los procesos de pruebas de calidad de software.
-
-
-## Habilidades y Experiencia
-
-### Gestión de Proyectos 📈
-- **Jira**: Herramienta de seguimiento de proyectos y gestión de incidencias.
-- [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-- **Azure DevOps**: Plataforma de desarrollo y entrega continua.
-- [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/)
-- **TFS**: Sistema de control de versiones y gestión de proyectos.
-- [![TFS](https://img.shields.io/badge/TFS-0078D7?style=for-the-badge&logo=visualstudio&logoColor=white)](https://docs.microsoft.com/en-us/azure/devops/server/)
-- **Zoho**: Suite de aplicaciones de negocio
-- [![Zoho](https://img.shields.io/badge/Zoho-4A90E2?style=for-the-badge&logo=zoho&logoColor=white)](https://www.zoho.com/)
-- **Monday**: Plataforma de gestión de proyectos y trabajo en equipo.
-- [![Monday](https://img.shields.io/badge/Monday-0078D7?style=for-the-badge&logo=monday.com&logoColor=white)](https://monday.com/)
-
-<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
-
-<br><br>
-
-### Pruebas de API 🕵️
-- **Postman** - **SOAP**: Herramienta para pruebas de API.
-- [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) - [![SOAP](https://img.shields.io/badge/SOAP-0078D7?style=for-the-badge&logo=soap&logoColor=white)](https://www.w3.org/TR/soap/)
-
-### Bases de Datos 💻
-- **SQL Server**: Sistema de gestión de bases de datos relacionales.
-- [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://docs.microsoft.com/en-us/sql/sql-server/)
-- **Mongo DB**: Base de datos NoSQL orientada a documentos.
-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
-
-### Automatización de Pruebas 🤖
-- **Cypress**: Framework de automatización de pruebas de frontend.
-- [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://docs.cypress.io/)
-- **Playwright**: Framework de automatización de pruebas para navegadores.
-- [![Playwright](https://img.shields.io/badge/Playwright-282C34?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
-- **Selenium**: Suite de herramientas para automatización de pruebas de navegadores.
-- [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-- **POM (Page Object Model)**: Diseño de pruebas automatizadas para mejorar la mantenibilidad y reutilización del código.
-- [![POM](https://img.shields.io/badge/POM-0078D7?style=for-the-badge&logo=pageobjectmodel&logoColor=white)](https://martinfowler.com/bliki/PageObject.html)
-
-### CI/CD y Automatización de Pruebas 🚀
-- **Git**: Control de versiones y colaboración en equipo.
-- **Jenkins**: Automatización de la integración continua y despliegue continuo.
-- **Bitbucket**: Repositorio de código y gestión de proyectos.
-- **AWS**: Servicios en la nube para despliegue y escalabilidad.
-
-### Lenguajes de Programación 🆎
-- **Python**: Lenguaje de programación de alto nivel.
-- **JavaScript**: Lenguaje de programación para el desarrollo web.
-- **TypeScript**: Superset de JavaScript que añade tipado estático.
-
-## Competencias Clave
-- **Adaptabilidad**: Me integro con éxito en diversos entornos corporativos.
-- **Comunicación Asertiva**: Excelente capacidad para comunicar ideas y resultados de manera clara y efectiva.
-- **Trabajo en Equipo**: Colaboro eficazmente con equipos multidisciplinarios.
-- **Liderazgo**: Capacidad para liderar equipos y proyectos de manera efectiva.
-- **Resolución de Problemas**: Habilidad para identificar y resolver problemas de manera eficiente.
-- **Gestión de Proyectos**: Experto en gestionar múltiples proyectos de forma simultánea.
-
-## Logros Destacados
-- Reducción de incidencias en un 70%.
-- Mejora en los tiempos de entrega en un 40%.
-- Implementación de estrategias de pruebas que agilizan los procesos de calidad de software.
-
-## Contacto
-Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme a través de parradodanny@outlook.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danny-parrado-qa-engineer )
+<p align="center">
+  <b>🇪🇸 Español</b> · <a href="#-english-version">🇺🇸 English version</a>
+</p>
 
 ---
 
-¡Gracias por visitar mi perfil! Espero que encuentres la información útil y estés interesado en colaborar en futuros proyectos.
+Soy **Advanced QA Engineer** con más de 8 años asegurando la calidad de productos web, móviles, APIs y microservicios en **fintech, banca, CRM B2B, medios digitales y retail**.
+Construyo frameworks de automatización desde cero con **Python + Pytest + Playwright**, **Cypress** y **Selenium**, integrados en **CI/CD** con enfoque **Shift-Left** y **Continuous Testing**.
+Hoy mi diferencial es el **AI-Driven Testing**: diseño arquitecturas multiagente con **Claude**, con orquestador, subagentes especializados y agentes *judge* (LLM-as-a-Judge) que generan y evalúan código de prueba y documentación.
+
+### 🤖 Así trabajo
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+  <img alt="Pipeline multiagente de QA: orquestador y subagentes" src="assets/terminal-light.svg" width="100%">
+</picture>
+
+### 📈 Impacto
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-es-dark.svg">
+  <img alt="-60% tareas manuales con IA, -70% defectos, -60% tiempo de ejecución E2E, +30% rapidez en despliegues" src="assets/impact-es-light.svg" width="100%">
+</picture>
+
+### 🛠️ Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-es-dark.svg">
+  <img alt="Stack técnico" src="assets/stack-es-light.svg" width="100%">
+</picture>
+
+### 🧭 Trayectoria
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-es-dark.svg">
+  <img alt="Trayectoria 2018–2026: Rappipage, Corbeta, Visionamos, Ingenia, Enmedio, Simetrik" src="assets/timeline-es-light.svg" width="100%">
+</picture>
+
+### 🚀 Proyectos destacados
+
+<p align="center">
+  <a href="https://github.com/DannyDan2016/cypress-automation-demoqa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-cypress-automation-demoqa-es-dark.svg"><img alt="cypress-automation-demoqa" src="assets/card-cypress-automation-demoqa-es-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/DannyDan2016/Test-frontend-QA-Cod"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-test-frontend-qa-cod-es-dark.svg"><img alt="Test-frontend-QA-Cod" src="assets/card-test-frontend-qa-cod-es-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/DannyDan2016/Test-Backend-Cod"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-test-backend-cod-es-dark.svg"><img alt="Test-Backend-Cod" src="assets/card-test-backend-cod-es-light.svg" width="49%"></picture></a>
+</p>
+
+### 🐍 Actividad
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DannyDan2016/DannyDan2016/output/github-snake-dark.svg">
+  <img alt="Contribuciones animadas" src="https://raw.githubusercontent.com/DannyDan2016/DannyDan2016/output/github-snake.svg" width="100%">
+</picture>
+
+---
+
+<details>
+<summary><h2>🇺🇸 English version</h2></summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-en-dark.svg">
+  <img alt="Danny Parrado — AI Agentic QA" src="assets/hero-en-light.svg" width="100%">
+</picture>
+
+I'm an **Advanced QA Engineer** with 8+ years ensuring the quality of web, mobile, API and microservice products in **fintech, banking, B2B CRM, digital media and retail**.
+I build test automation frameworks from scratch with **Python + Pytest + Playwright**, **Cypress** and **Selenium**, wired into **CI/CD** with a **Shift-Left** and **Continuous Testing** mindset.
+My edge today is **AI-Driven Testing**: I design multi-agent architectures with **Claude**, using an orchestrator, specialized subagents and *judge* agents (LLM-as-a-Judge) that generate and review test code and documentation.
+
+### 🤖 How I work
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+  <img alt="Multi-agent QA pipeline: orchestrator and subagents" src="assets/terminal-light.svg" width="100%">
+</picture>
+
+### 📈 Impact
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-en-dark.svg">
+  <img alt="-60% manual QA tasks with AI, -70% defects, -60% E2E execution time, +30% faster deployments" src="assets/impact-en-light.svg" width="100%">
+</picture>
+
+### 🛠️ Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-en-dark.svg">
+  <img alt="Tech stack" src="assets/stack-en-light.svg" width="100%">
+</picture>
+
+### 🧭 Career
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-en-dark.svg">
+  <img alt="Career 2018–2026: Rappipage, Corbeta, Visionamos, Ingenia, Enmedio, Simetrik" src="assets/timeline-en-light.svg" width="100%">
+</picture>
+
+### 🚀 Featured projects
+
+<p align="center">
+  <a href="https://github.com/DannyDan2016/cypress-automation-demoqa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-cypress-automation-demoqa-en-dark.svg"><img alt="cypress-automation-demoqa" src="assets/card-cypress-automation-demoqa-en-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/DannyDan2016/Test-frontend-QA-Cod"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-test-frontend-qa-cod-en-dark.svg"><img alt="Test-frontend-QA-Cod" src="assets/card-test-frontend-qa-cod-en-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/DannyDan2016/Test-Backend-Cod"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-test-backend-cod-en-dark.svg"><img alt="Test-Backend-Cod" src="assets/card-test-backend-cod-en-light.svg" width="49%"></picture></a>
+</p>
+
+Open to **QA Automation Engineer** and **Senior QA Engineer** roles, remote or hybrid. Let's talk on [LinkedIn](https://www.linkedin.com/in/danny-parrado-qa-engineer).
+
+</details>

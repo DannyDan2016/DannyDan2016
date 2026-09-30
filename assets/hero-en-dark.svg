@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="Danny Parrado — AI Agentic QA">
+<title>Danny Parrado — AI Agentic QA</title>
+<defs>
+  <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7b8cff"/><stop offset="1" stop-color="#38e1ff"/>
+  </linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.1" fill="#1a202b"/>
+  </pattern>
+  <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#38e1ff" stop-opacity="0.16"/><stop offset="1" stop-color="#38e1ff" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<style>
+  .mono { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace; }
+  .sans { font-family: 'Segoe UI',Inter,-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+  @keyframes pulse { 0% { opacity: .8; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
+  @keyframes vis0 { 0% { opacity: 1; } 24.99% { opacity: 1; } 25% { opacity: 0; } 100% { opacity: 0; } }
+  @keyframes rev0 { 0% { transform: translateX(-294px); } 0% { transform: translateX(-294px); animation-timing-function: steps(25, end); } 8.75% { transform: translateX(0); } 20% { transform: translateX(0); animation-timing-function: steps(25, end); } 23.75% { transform: translateX(-294px); } 100% { transform: translateX(-294px); } }
+  @keyframes car0 { 0% { transform: translateX(0); } 0% { transform: translateX(0); animation-timing-function: steps(25, end); } 8.75% { transform: translateX(270px); } 20% { transform: translateX(270px); animation-timing-function: steps(25, end); } 23.75% { transform: translateX(0); } 100% { transform: translateX(0); } }
+  .role0 { animation: vis0 16.0s linear infinite; }
+  .clip0 { animation: rev0 16.0s linear infinite; }
+  .caret0 { transform: translateX(270px); animation: car0 16.0s linear infinite; }
+  @keyframes vis1 { 0% { opacity: 0; } 25% { opacity: 0; } 25.01% { opacity: 1; } 49.99% { opacity: 1; } 50% { opacity: 0; } 100% { opacity: 0; } }
+  @keyframes rev1 { 0% { transform: translateX(-337px); } 25% { transform: translateX(-337px); animation-timing-function: steps(29, end); } 33.75% { transform: translateX(0); } 45% { transform: translateX(0); animation-timing-function: steps(29, end); } 48.75% { transform: translateX(-337px); } 100% { transform: translateX(-337px); } }
+  @keyframes car1 { 0% { transform: translateX(0); } 25% { transform: translateX(0); animation-timing-function: steps(29, end); } 33.75% { transform: translateX(313px); } 45% { transform: translateX(313px); animation-timing-function: steps(29, end); } 48.75% { transform: translateX(0); } 100% { transform: translateX(0); } }
+  .role1 { animation: vis1 16.0s linear infinite; }
+  .clip1 { animation: rev1 16.0s linear infinite; }
+  .caret1 { transform: translateX(313px); animation: car1 16.0s linear infinite; }
+  @keyframes vis2 { 0% { opacity: 0; } 50% { opacity: 0; } 50.01% { opacity: 1; } 74.99% { opacity: 1; } 75% { opacity: 0; } 100% { opacity: 0; } }
+  @keyframes rev2 { 0% { transform: translateX(-337px); } 50% { transform: translateX(-337px); animation-timing-function: steps(29, end); } 58.75% { transform: translateX(0); } 70% { transform: translateX(0); animation-timing-function: steps(29, end); } 73.75% { transform: translateX(-337px); } 100% { transform: translateX(-337px); } }
+  @keyframes car2 { 0% { transform: translateX(0); } 50% { transform: translateX(0); animation-timing-function: steps(29, end); } 58.75% { transform: translateX(313px); } 70% { transform: translateX(313px); animation-timing-function: steps(29, end); } 73.75% { transform: translateX(0); } 100% { transform: translateX(0); } }
+  .role2 { animation: vis2 16.0s linear infinite; }
+  .clip2 { animation: rev2 16.0s linear infinite; }
+  .caret2 { transform: translateX(313px); animation: car2 16.0s linear infinite; }
+  @keyframes vis3 { 0% { opacity: 0; } 75% { opacity: 0; } 75.01% { opacity: 1; } 99.99% { opacity: 1; } 100% { opacity: 0; } 100% { opacity: 0; } }
+  @keyframes rev3 { 0% { transform: translateX(-359px); } 75% { transform: translateX(-359px); animation-timing-function: steps(31, end); } 83.75% { transform: translateX(0); } 95% { transform: translateX(0); animation-timing-function: steps(31, end); } 98.75% { transform: translateX(-359px); } 100% { transform: translateX(-359px); } }
+  @keyframes car3 { 0% { transform: translateX(0); } 75% { transform: translateX(0); animation-timing-function: steps(31, end); } 83.75% { transform: translateX(335px); } 95% { transform: translateX(335px); animation-timing-function: steps(31, end); } 98.75% { transform: translateX(0); } 100% { transform: translateX(0); } }
+  .role3 { animation: vis3 16.0s linear infinite; }
+  .clip3 { animation: rev3 16.0s linear infinite; }
+  .caret3 { transform: translateX(335px); animation: car3 16.0s linear infinite; }
+  .blinker { animation: blink 1s step-end infinite; }
+  .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 1.8s ease-out infinite; }
+  .in1 { animation: fadeUp .7s ease-out .1s both; } .in2 { animation: fadeUp .7s ease-out .35s both; } .in3 { animation: fadeUp .7s ease-out .6s both; } .in4 { animation: fadeUp .7s ease-out .9s both; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="900" height="250" rx="16" fill="#0a0c10"/>
+<rect width="900" height="250" rx="16" fill="url(#dots)"/>
+<circle cx="760" cy="110" r="260" fill="url(#glow)"/>
+<text x="44" y="62" class="mono" font-size="14" fill="#2d3645" text-anchor="end">1</text>
+<text x="44" y="94" class="mono" font-size="14" fill="#2d3645" text-anchor="end">2</text>
+<text x="44" y="126" class="mono" font-size="14" fill="#2d3645" text-anchor="end">3</text>
+<text x="44" y="158" class="mono" font-size="14" fill="#2d3645" text-anchor="end">4</text>
+<text x="44" y="190" class="mono" font-size="14" fill="#2d3645" text-anchor="end">5</text>
+<text x="44" y="222" class="mono" font-size="14" fill="#2d3645" text-anchor="end">6</text>
+<g class="in1"><text x="80" y="62" class="mono" font-size="17" fill="#8b949e"><tspan fill="#7b8cff">//</tspan> Advanced QA Engineer · 8+ years</text></g>
+<g class="in2"><text x="80" y="112" class="sans" font-size="40" font-weight="800" letter-spacing="6" fill="#e6edf3">DANNY PARRADO</text></g>
+<g class="in3"><text x="77" y="172" class="sans" font-size="60" font-weight="800" letter-spacing="-1.5" fill="url(#grad)">AI Agentic QA</text></g>
+<text x="80" y="212" class="mono" font-size="18" fill="#b392f0">$</text>
+<clipPath id="c0"><rect class="clip0" x="104" y="190" width="294" height="32"/></clipPath>
+<g class="role0">
+  <text x="104" y="212" class="mono" font-size="18" fill="#e6edf3" clip-path="url(#c0)">Test Automation Architect</text>
+  <g class="caret0"><rect class="blinker" x="106" y="195" width="10" height="21" rx="1" fill="#38e1ff"/></g>
+</g><clipPath id="c1"><rect class="clip1" x="104" y="190" width="337" height="32"/></clipPath>
+<g class="role1" opacity="0">
+  <text x="104" y="212" class="mono" font-size="18" fill="#e6edf3" clip-path="url(#c1)">AI-Driven Testing with Claude</text>
+  <g class="caret1"><rect class="blinker" x="106" y="195" width="10" height="21" rx="1" fill="#38e1ff"/></g>
+</g><clipPath id="c2"><rect class="clip2" x="104" y="190" width="337" height="32"/></clipPath>
+<g class="role2" opacity="0">
+  <text x="104" y="212" class="mono" font-size="18" fill="#e6edf3" clip-path="url(#c2)">Playwright · Pytest · Cypress</text>
+  <g class="caret2"><rect class="blinker" x="106" y="195" width="10" height="21" rx="1" fill="#38e1ff"/></g>
+</g><clipPath id="c3"><rect class="clip3" x="104" y="190" width="359" height="32"/></clipPath>
+<g class="role3" opacity="0">
+  <text x="104" y="212" class="mono" font-size="18" fill="#e6edf3" clip-path="url(#c3)">Shift-Left &amp; Continuous Testing</text>
+  <g class="caret3"><rect class="blinker" x="106" y="195" width="10" height="21" rx="1" fill="#38e1ff"/></g>
+</g>
+<g class="in4">
+  <rect x="598" y="58" width="270" height="150" rx="12" fill="#0f141b" stroke="#232b38"/>
+  <rect x="598" y="58" width="270" height="2.5" rx="1" fill="url(#grad)"/>
+  <text x="616" y="88" class="mono" font-size="12.5" fill="#8b949e">profile.yml</text>
+  <circle class="pulse" cx="844" cy="84" r="5" fill="#3fb950"/>
+  <circle cx="844" cy="84" r="5" fill="#3fb950"/>
+  <text x="616" y="124" class="mono" font-size="12.5" fill="#38e1ff">status:</text><text x="690" y="124" class="mono" font-size="12.5" fill="#3fb950">open to work</text><text x="616" y="148" class="mono" font-size="12.5" fill="#38e1ff">role:</text><text x="690" y="148" class="mono" font-size="12.5" fill="#e6edf3">QA Automation · Sr QA</text><text x="616" y="172" class="mono" font-size="12.5" fill="#38e1ff">mode:</text><text x="690" y="172" class="mono" font-size="12.5" fill="#e6edf3">remote | hybrid</text><text x="616" y="196" class="mono" font-size="12.5" fill="#38e1ff">based:</text><text x="690" y="196" class="mono" font-size="12.5" fill="#e6edf3">Bogotá, CO</text>
+</g>
+<rect x="0.5" y="0.5" width="899" height="249" rx="15.5" fill="none" stroke="#232b38"/>
+</svg>

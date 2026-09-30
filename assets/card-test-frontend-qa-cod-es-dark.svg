@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="190" viewBox="0 0 440 190" role="img" aria-label="Test-frontend-QA-Cod">
+<title>Test-frontend-QA-Cod</title>
+<defs>
+  <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7b8cff"/><stop offset="1" stop-color="#38e1ff"/>
+  </linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.1" fill="#1a202b"/>
+  </pattern>
+  <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#38e1ff" stop-opacity="0.16"/><stop offset="1" stop-color="#38e1ff" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<style>
+  .mono { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace; }
+  .sans { font-family: 'Segoe UI',Inter,-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+  @keyframes pulse { 0% { opacity: .8; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
+  @keyframes sweep { from { transform: translateX(-160px); } to { transform: translateX(600px); } }
+  .sweep { animation: sweep 3.5s ease-in-out infinite; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="440" height="190" rx="16" fill="#0a0c10"/>
+<rect width="440" height="190" rx="16" fill="url(#dots)"/>
+<clipPath id="top"><rect x="0" y="0" width="440" height="190" rx="16"/></clipPath>
+<g clip-path="url(#top)"><rect x="0" y="0" width="440" height="3" fill="#2d3645"/>
+<rect class="sweep" x="0" y="0" width="160" height="3" fill="url(#grad)"/></g>
+<path transform="translate(24 24) scale(1.1)" fill="#8b949e" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/>
+<text x="50" y="37" class="mono" font-size="15" font-weight="700" fill="#7b8cff">Test-frontend-QA-Cod</text>
+<text x="24" y="62" class="sans" font-size="12.5" font-weight="600" fill="#8b949e">E2E checkout · Sauce Demo</text>
+<circle cx="364.4" cy="58" r="5" fill="#3572A5"/>
+<text x="416" y="62" class="sans" font-size="12" fill="#8b949e" text-anchor="end">Python</text>
+<text x="24" y="92" class="sans" font-size="13.5" fill="#e6edf3">Flujo completo de compra con Playwright + Pytest bajo</text><text x="24" y="112" class="sans" font-size="13.5" fill="#e6edf3">POM, con reportes Allure y pipeline CI.</text>
+<rect x="24" y="150" width="84" height="22" rx="11" fill="#141a23" stroke="#232b38"/><text x="33" y="165" class="mono" font-size="11" fill="#38e1ff">Playwright</text><rect x="114.0" y="150" width="58" height="22" rx="11" fill="#141a23" stroke="#232b38"/><text x="123.0" y="165" class="mono" font-size="11" fill="#38e1ff">Pytest</text><rect x="177.6" y="150" width="38" height="22" rx="11" fill="#141a23" stroke="#232b38"/><text x="186.6" y="165" class="mono" font-size="11" fill="#38e1ff">POM</text><rect x="221.39999999999998" y="150" width="58" height="22" rx="11" fill="#141a23" stroke="#232b38"/><text x="230.39999999999998" y="165" class="mono" font-size="11" fill="#38e1ff">Allure</text>
+<rect x="0.5" y="0.5" width="439" height="189" rx="15.5" fill="none" stroke="#232b38"/>
+</svg>
